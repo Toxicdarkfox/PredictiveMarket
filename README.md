@@ -38,7 +38,7 @@ Installation
 
     Clone the repository: 
 
-git clone https://github.com/yourusername/bdag-predictive-dapp.git 
+git clone https://github.com/Toxicdarkfox/PredictiveMarket.git
 cd bdag-predictive-dapp 
   
 
